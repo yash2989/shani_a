@@ -1,0 +1,11 @@
+Initialize <--->  git init
+git status
+git branch "Branchname" ---> Git Branch 
+git checkout "branchname" ---> Switch the Branch from master 
+git add .      ----> Add the File to staging area  
+create the file for Remote Repo 
+git commit -m "Commit"  ---> file commited from Staging Area to Local Repo.
+git merge ---> go to master and merge the feature Branch 
+git push origin master  ----> Git push command 
+
+
