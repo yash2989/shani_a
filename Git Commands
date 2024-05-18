@@ -9,3 +9,4 @@ git merge ---> go to master and merge the feature Branch
 git push origin master  ----> Git push command  
 git config user.name "Ysh" ---> Username 
 git config --global user.email ""---> Address
+git clone ""  --> Git clone github website. 
