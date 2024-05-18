@@ -6,6 +6,6 @@ git add .      ----> Add the File to staging area
 create the file for Remote Repo 
 git commit -m "Commit"  ---> file commited from Staging Area to Local Repo.
 git merge ---> go to master and merge the feature Branch 
-git push origin master  ----> Git push command 
-
-
+git push origin master  ----> Git push command  
+git config user.name "Ysh" ---> Username 
+git config --global user.email ""---> Address
